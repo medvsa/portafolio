@@ -3,17 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Portafolio de Diseño de Medusa">
     <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
+    <link rel="icon" type="img/png" href="img/favicon.png">
 
-    <title>Album example for Bootstrap</title>
+    <title>medvsa</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
-    <link href="estilo.css" rel="stylesheet">
+    <link href="estilo.css" rel="stylesheet">}
+      
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   </head>
 
   <body>
@@ -23,15 +25,16 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
-              <h4 class="text-white">About</h4>
-              <p class="text-muted">Add some information about the album below, the author, or any other background context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or contact information.</p>
+            <i class="fas fa-brain" style="color: white"></i>
+              <h4 class="text-white">yo</h4>
+              <p class="text-muted">Hola soy medvsa, me llaman medu. Soy estudiante de Diseño, vivo en Chile y no me gusta el helado de chocolate </p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
               <h4 class="text-white">Contact</h4>
               <ul class="list-unstyled">
-                <li><a href="#" class="text-white">Follow on Twitter</a></li>
-                <li><a href="#" class="text-white">Like on Facebook</a></li>
-                <li><a href="#" class="text-white">Email me</a></li>
+                <li><i class="fab fa-instagram pr-2" style="color: ghostwhite"></i><a href="https://www.instagram.com/meddvsa/" class="text-white">instagram</a></li>
+                <li><i class="fab fa-facebook-square pr-2" style="color: ghostwhite"></i><a href="https://www.facebook.com/cocodrilovoladorenunaptineta?ref=bookmarks" class="text-white">facebook</a></li>
+                <li><i class="fab fa-tumblr-square pr-2" style="color: ghostwhite"></i><a href="https://meddvsas.tumblr.com/" class="text-white">tumblr</a></li>
               </ul>
             </div>
           </div>
@@ -220,7 +223,7 @@
       </div>
     </footer>
 
-    <!-- Bootstrap core JavaScript
+    <!-- Bootstrap core JavaScript-->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
